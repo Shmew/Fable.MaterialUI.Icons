@@ -23,10 +23,6 @@ Target.create "DotnetRestore" (fun _ ->
     "Fable.MaterialUI.Icons.sln"
 )
 
-Target.create "YarnUpgradeAll" (fun _ ->
-  Yarn.exec "upgrade --latest" id
-)
-
 Target.create "YarnInstall" (fun _ ->
   Yarn.install id
 )
@@ -128,22 +124,10 @@ Target.create "Update" ignore
   ==> "Generate"
   ==> "Build"
   ==> "BuildTest"
-
-"BuildTest"
   ==> "Pack"
 
 "Build"
   ==> "DevTest"
-
-"Clean"
-  ==> "DotnetRestore"
-  ==> "YarnUpgradeAll"
-  ==> "YarnInstall"
-  ==> "Generate"
-  ==> "Build"
-  ==> "BuildTest"
-  ==> "Pack"
-  ==> "Update"
 
 // start build
 Target.runOrDefault "Pack"
