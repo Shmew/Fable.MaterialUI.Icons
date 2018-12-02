@@ -12,6 +12,20 @@ This package provides Fable bindings for Material-UI SVG icons. You can use it w
   * using dotnet: `dotnet add package Fable.MaterialUI.Icons`
   * using paket: `paket add Fable.MaterialUI.Icons`
 
+## Usage
+
+```f#
+open Fable.Helpers.React
+open Fable.MaterialUI.Icons
+
+let view =
+  div [ ] [
+    homeIcon [ ]
+  ]
+```
+
+For icon-specific properties, use [fable-material-ui](https://github.com/mvsmal/fable-material-ui) and see its [SvgIcon documentation](https://mvsmal.github.io/fable-material-ui/#/api/svg-icon).
+
 ## Missing new icons?
 
 If the bindings are outdated, please file an issue and I'll update them. It's quick and simple (they're auto-generated), but I don't have the capacity for manually checking for changes in `@material-ui/icons`.
