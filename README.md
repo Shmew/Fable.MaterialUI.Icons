@@ -2,6 +2,8 @@
 
 This package provides Fable bindings for the `<SvgIcon>` React components in `@material-ui/icons`. You can use it with [fable-material-ui](https://github.com/mvsmal/fable-material-ui) (>= 3.0.0 due to module/namespace clashes) or on its own.
 
+For more icons, see [Fable.MaterialUI.MaterialDesignIcons](https://github.com/cmeeren/Fable.MaterialUI.MaterialDesignIcons).
+
 ## Installation
 
 * Install the `@material-ui/icons` npm package and its peer dependency `@material-ui/core`:
