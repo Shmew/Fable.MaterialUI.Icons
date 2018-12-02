@@ -28,7 +28,7 @@ For icon-specific properties, use [fable-material-ui](https://github.com/mvsmal/
 
 ## Missing new icons?
 
-If the bindings are outdated, please file an issue and I'll update them. It's quick and simple (they're auto-generated), but I don't have the capacity for manually checking for changes in `@material-ui/icons`.
+If the bindings are outdated, please file an issue and I'll update them. It's quick and simple (they're auto-generated), but I don't have the capacity to manually check for changes in `@material-ui/icons`.
 
 ## Contributing/updating
 
