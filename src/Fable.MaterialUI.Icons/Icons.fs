@@ -1,19 +1,14 @@
 
-//-------------------------------------------//
-// This file is auto-generated see build.fsx //
-//-------------------------------------------//
+//--------------------------------------------//
+// This file is auto-generated, see build.fsx //
+//--------------------------------------------//
 
 module Fable.MaterialUI.Icons
 
 open Fable.Core
 open Fable.Core.JsInterop
 open Fable.Helpers.React
-open Fable.Helpers.React.Props
 open Fable.Import.React
-
-//let inline private materialEl<'P when 'P :> IHTMLProp>
-//    (a: ComponentClass<'P>) (b: IHTMLProp list) c : ReactElement =
-//  from a (keyValueList CaseRules.LowerFirst b |> unbox) c
 
 let inline accessAlarmIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/AccessAlarm" (keyValueList CaseRules.LowerFirst b) []
