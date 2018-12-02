@@ -50,10 +50,6 @@ open Fable.Helpers.React
 open Fable.Helpers.React.Props
 open Fable.Import.React
 
-//let inline private materialEl<'P when 'P :> IHTMLProp>
-//    (a: ComponentClass<'P>) (b: IHTMLProp list) c : ReactElement =
-//  from a (keyValueList CaseRules.LowerFirst b |> unbox) c
-
 """
   let bindingLines =
     names |> Seq.collect (fun name ->
