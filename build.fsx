@@ -111,8 +111,6 @@ Target.create "DevTest" (fun _ ->
   Yarn.exec "start" id
 )
 
-Target.create "Update" ignore
-
 // Build order
 "Clean"
   ==> "DotnetRestore"
