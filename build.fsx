@@ -38,9 +38,9 @@ Target.create "Generate" (fun _ ->
         fullName.Substring(0, fullName.Length - 5)
     )
   let bindingStart = """
-//-------------------------------------------//
-// This file is auto-generated see build.fsx //
-//-------------------------------------------//
+//--------------------------------------------//
+// This file is auto-generated, see build.fsx //
+//--------------------------------------------//
 
 module Fable.MaterialUI.Icons
 
@@ -67,9 +67,9 @@ open Fable.Import.React
   File.write true "src/Fable.MaterialUI.Icons/Icons.fs" bindingLines  
 
   let testStart = """
-//-------------------------------------------//
-// This file is auto-generated see build.fsx //
-//-------------------------------------------//
+//--------------------------------------------//
+// This file is auto-generated, see build.fsx //
+//--------------------------------------------//
 
 module ViewTree
 
