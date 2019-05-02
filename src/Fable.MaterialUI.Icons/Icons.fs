@@ -7,8 +7,7 @@ module Fable.MaterialUI.Icons
 
 open Fable.Core
 open Fable.Core.JsInterop
-open Fable.Helpers.React
-open Fable.Import.React
+open Fable.React
 
 let inline accessAlarmIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/AccessAlarm" (keyValueList CaseRules.LowerFirst b) []

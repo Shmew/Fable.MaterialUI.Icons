@@ -5,8 +5,8 @@
 
 module ViewTree
 
-open Fable.Helpers.React
-open Fable.Helpers.React.Props
+open Fable.React
+open Fable.React.Props
 open Fable.MaterialUI.Icons
 
 let root =
