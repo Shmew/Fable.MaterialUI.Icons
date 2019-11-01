@@ -174,6 +174,21 @@ let inline accountCircleSharpIcon b : ReactElement =
 let inline accountCircleTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/AccountCircleTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline accountTreeIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AccountTree" (keyValueList CaseRules.LowerFirst b) []
+
+let inline accountTreeOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AccountTreeOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline accountTreeRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AccountTreeRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline accountTreeSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AccountTreeSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline accountTreeTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AccountTreeTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline acUnitIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/AcUnit" (keyValueList CaseRules.LowerFirst b) []
 
@@ -744,6 +759,21 @@ let inline alternateEmailSharpIcon b : ReactElement =
 let inline alternateEmailTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/AlternateEmailTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline ampStoriesIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AmpStories" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ampStoriesOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AmpStoriesOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ampStoriesRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AmpStoriesRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ampStoriesSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AmpStoriesSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ampStoriesTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AmpStoriesTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline androidIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Android" (keyValueList CaseRules.LowerFirst b) []
 
@@ -773,6 +803,24 @@ let inline announcementSharpIcon b : ReactElement =
 
 let inline announcementTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/AnnouncementTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline apartmentIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Apartment" (keyValueList CaseRules.LowerFirst b) []
+
+let inline apartmentOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/ApartmentOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline apartmentRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/ApartmentRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline apartmentSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/ApartmentSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline apartmentTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/ApartmentTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline appleIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Apple" (keyValueList CaseRules.LowerFirst b) []
 
 let inline appsIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Apps" (keyValueList CaseRules.LowerFirst b) []
@@ -1313,6 +1361,21 @@ let inline barChartSharpIcon b : ReactElement =
 
 let inline barChartTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/BarChartTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline bathtubIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Bathtub" (keyValueList CaseRules.LowerFirst b) []
+
+let inline bathtubOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/BathtubOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline bathtubRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/BathtubRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline bathtubSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/BathtubSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline bathtubTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/BathtubTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline battery20Icon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Battery20" (keyValueList CaseRules.LowerFirst b) []
@@ -2598,6 +2661,21 @@ let inline cancelPresentationTwoToneIcon b : ReactElement =
 let inline cancelRoundedIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/CancelRounded" (keyValueList CaseRules.LowerFirst b) []
 
+let inline cancelScheduleSendIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/CancelScheduleSend" (keyValueList CaseRules.LowerFirst b) []
+
+let inline cancelScheduleSendOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/CancelScheduleSendOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline cancelScheduleSendRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/CancelScheduleSendRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline cancelScheduleSendSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/CancelScheduleSendSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline cancelScheduleSendTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/CancelScheduleSendTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline cancelSharpIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/CancelSharp" (keyValueList CaseRules.LowerFirst b) []
 
@@ -3339,6 +3417,21 @@ let inline confirmationNumberSharpIcon b : ReactElement =
 let inline confirmationNumberTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/ConfirmationNumberTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline contactlessIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Contactless" (keyValueList CaseRules.LowerFirst b) []
+
+let inline contactlessOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/ContactlessOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline contactlessRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/ContactlessRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline contactlessSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/ContactlessSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline contactlessTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/ContactlessTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline contactMailIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/ContactMail" (keyValueList CaseRules.LowerFirst b) []
 
@@ -3728,6 +3821,21 @@ let inline dateRangeSharpIcon b : ReactElement =
 
 let inline dateRangeTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/DateRangeTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline deckIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Deck" (keyValueList CaseRules.LowerFirst b) []
+
+let inline deckOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DeckOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline deckRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DeckRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline deckSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DeckSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline deckTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DeckTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline dehazeIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Dehaze" (keyValueList CaseRules.LowerFirst b) []
@@ -4314,6 +4422,21 @@ let inline donutSmallSharpIcon b : ReactElement =
 let inline donutSmallTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/DonutSmallTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline doubleArrowIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DoubleArrow" (keyValueList CaseRules.LowerFirst b) []
+
+let inline doubleArrowOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DoubleArrowOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline doubleArrowRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DoubleArrowRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline doubleArrowSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DoubleArrowSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline doubleArrowTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DoubleArrowTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline draftsIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Drafts" (keyValueList CaseRules.LowerFirst b) []
 
@@ -4404,6 +4527,36 @@ let inline dvrSharpIcon b : ReactElement =
 let inline dvrTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/DvrTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline dynamicFeedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DynamicFeed" (keyValueList CaseRules.LowerFirst b) []
+
+let inline dynamicFeedOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DynamicFeedOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline dynamicFeedRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DynamicFeedRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline dynamicFeedSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DynamicFeedSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline dynamicFeedTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/DynamicFeedTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ecoIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Eco" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ecoOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EcoOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ecoRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EcoRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ecoSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EcoSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline ecoTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EcoTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline editIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Edit" (keyValueList CaseRules.LowerFirst b) []
 
@@ -4479,6 +4632,141 @@ let inline emailSharpIcon b : ReactElement =
 let inline emailTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/EmailTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline emojiEmotionsIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEmotions" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEmotionsOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEmotionsOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEmotionsRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEmotionsRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEmotionsSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEmotionsSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEmotionsTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEmotionsTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEventsIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEvents" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEventsOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEventsOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEventsRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEventsRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEventsSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEventsSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiEventsTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiEventsTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFlagsIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFlags" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFlagsOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFlagsOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFlagsRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFlagsRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFlagsSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFlagsSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFlagsTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFlagsTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFoodBeverageIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFoodBeverage" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFoodBeverageOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFoodBeverageOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFoodBeverageRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFoodBeverageRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFoodBeverageSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFoodBeverageSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiFoodBeverageTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiFoodBeverageTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiNatureIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiNature" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiNatureOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiNatureOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiNatureRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiNatureRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiNatureSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiNatureSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiNatureTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiNatureTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiObjectsIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiObjects" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiObjectsOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiObjectsOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiObjectsRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiObjectsRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiObjectsSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiObjectsSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiObjectsTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiObjectsTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiPeopleIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiPeople" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiPeopleOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiPeopleOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiPeopleRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiPeopleRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiPeopleSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiPeopleSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiPeopleTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiPeopleTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiSymbolsIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiSymbols" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiSymbolsOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiSymbolsOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiSymbolsRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiSymbolsRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiSymbolsSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiSymbolsSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiSymbolsTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiSymbolsTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiTransportationIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiTransportation" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiTransportationOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiTransportationOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiTransportationRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiTransportationRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiTransportationSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiTransportationSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline emojiTransportationTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EmojiTransportationTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline enhancedEncryptionIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/EnhancedEncryption" (keyValueList CaseRules.LowerFirst b) []
 
@@ -4539,6 +4827,18 @@ let inline errorSharpIcon b : ReactElement =
 let inline errorTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/ErrorTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline euroIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Euro" (keyValueList CaseRules.LowerFirst b) []
+
+let inline euroOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EuroOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline euroRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EuroRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline euroSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EuroSharp" (keyValueList CaseRules.LowerFirst b) []
+
 let inline euroSymbolIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/EuroSymbol" (keyValueList CaseRules.LowerFirst b) []
 
@@ -4553,6 +4853,9 @@ let inline euroSymbolSharpIcon b : ReactElement =
 
 let inline euroSymbolTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/EuroSymbolTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline euroTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/EuroTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline eventIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Event" (keyValueList CaseRules.LowerFirst b) []
@@ -4841,6 +5144,9 @@ let inline extensionTwoToneIcon b : ReactElement =
 
 let inline faceIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Face" (keyValueList CaseRules.LowerFirst b) []
+
+let inline facebookIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Facebook" (keyValueList CaseRules.LowerFirst b) []
 
 let inline faceOutlinedIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/FaceOutlined" (keyValueList CaseRules.LowerFirst b) []
@@ -5409,6 +5715,21 @@ let inline fingerprintSharpIcon b : ReactElement =
 let inline fingerprintTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/FingerprintTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline fireplaceIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Fireplace" (keyValueList CaseRules.LowerFirst b) []
+
+let inline fireplaceOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FireplaceOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline fireplaceRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FireplaceRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline fireplaceSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FireplaceSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline fireplaceTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FireplaceTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline firstPageIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/FirstPage" (keyValueList CaseRules.LowerFirst b) []
 
@@ -5561,6 +5882,36 @@ let inline flightTwoToneIcon b : ReactElement =
 
 let inline flipIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Flip" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraAndroidIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraAndroid" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraAndroidOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraAndroidOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraAndroidRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraAndroidRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraAndroidSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraAndroidSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraAndroidTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraAndroidTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraIosIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraIos" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraIosOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraIosOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraIosRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraIosRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraIosSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraIosSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline flipCameraIosTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/FlipCameraIosTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline flipOutlinedIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/FlipOutlined" (keyValueList CaseRules.LowerFirst b) []
@@ -6279,6 +6630,9 @@ let inline gifSharpIcon b : ReactElement =
 let inline gifTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/GifTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline gitHubIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/GitHub" (keyValueList CaseRules.LowerFirst b) []
+
 let inline golfCourseIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/GolfCourse" (keyValueList CaseRules.LowerFirst b) []
 
@@ -6624,6 +6978,21 @@ let inline hearingSharpIcon b : ReactElement =
 let inline hearingTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/HearingTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline heightIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Height" (keyValueList CaseRules.LowerFirst b) []
+
+let inline heightOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HeightOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline heightRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HeightRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline heightSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HeightSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline heightTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HeightTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline helpIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Help" (keyValueList CaseRules.LowerFirst b) []
 
@@ -6729,6 +7098,21 @@ let inline homeSharpIcon b : ReactElement =
 let inline homeTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/HomeTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline homeWorkIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HomeWork" (keyValueList CaseRules.LowerFirst b) []
+
+let inline homeWorkOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HomeWorkOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline homeWorkRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HomeWorkRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline homeWorkSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HomeWorkSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline homeWorkTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HomeWorkTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline horizontalSplitIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/HorizontalSplit" (keyValueList CaseRules.LowerFirst b) []
 
@@ -6803,6 +7187,21 @@ let inline hourglassFullSharpIcon b : ReactElement =
 
 let inline hourglassFullTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/HourglassFullTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline houseIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/House" (keyValueList CaseRules.LowerFirst b) []
+
+let inline houseOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HouseOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline houseRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HouseRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline houseSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HouseSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline houseTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/HouseTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline howToRegIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/HowToReg" (keyValueList CaseRules.LowerFirst b) []
@@ -7131,6 +7530,9 @@ let inline insertPhotoSharpIcon b : ReactElement =
 let inline insertPhotoTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/InsertPhotoTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline instagramIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Instagram" (keyValueList CaseRules.LowerFirst b) []
+
 let inline invertColorsIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/InvertColors" (keyValueList CaseRules.LowerFirst b) []
 
@@ -7340,6 +7742,21 @@ let inline keyboardVoiceSharpIcon b : ReactElement =
 
 let inline keyboardVoiceTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/KeyboardVoiceTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline kingBedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/KingBed" (keyValueList CaseRules.LowerFirst b) []
+
+let inline kingBedOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/KingBedOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline kingBedRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/KingBedRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline kingBedSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/KingBedSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline kingBedTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/KingBedTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline kitchenIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Kitchen" (keyValueList CaseRules.LowerFirst b) []
@@ -7703,6 +8120,9 @@ let inline linkedCameraSharpIcon b : ReactElement =
 
 let inline linkedCameraTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/LinkedCameraTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline linkedInIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/LinkedIn" (keyValueList CaseRules.LowerFirst b) []
 
 let inline linkOffIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/LinkOff" (keyValueList CaseRules.LowerFirst b) []
@@ -8619,6 +9039,36 @@ let inline memoryTwoToneIcon b : ReactElement =
 let inline menuIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Menu" (keyValueList CaseRules.LowerFirst b) []
 
+let inline menuBookIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuBook" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuBookOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuBookOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuBookRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuBookRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuBookSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuBookSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuBookTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuBookTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuOpenIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuOpen" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuOpenOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuOpenOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuOpenRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuOpenRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuOpenSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuOpenSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline menuOpenTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MenuOpenTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline menuOutlinedIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/MenuOutlined" (keyValueList CaseRules.LowerFirst b) []
 
@@ -9051,6 +9501,21 @@ let inline multilineChartSharpIcon b : ReactElement =
 let inline multilineChartTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/MultilineChartTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline museumIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Museum" (keyValueList CaseRules.LowerFirst b) []
+
+let inline museumOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MuseumOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline museumRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MuseumRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline museumSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MuseumSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline museumTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/MuseumTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline musicNoteIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/MusicNote" (keyValueList CaseRules.LowerFirst b) []
 
@@ -9305,6 +9770,21 @@ let inline nfcSharpIcon b : ReactElement =
 
 let inline nfcTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/NfcTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline nightsStayIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/NightsStay" (keyValueList CaseRules.LowerFirst b) []
+
+let inline nightsStayOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/NightsStayOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline nightsStayRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/NightsStayRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline nightsStaySharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/NightsStaySharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline nightsStayTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/NightsStayTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline noEncryptionIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/NoEncryption" (keyValueList CaseRules.LowerFirst b) []
@@ -9621,6 +10101,21 @@ let inline openWithSharpIcon b : ReactElement =
 let inline openWithTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/OpenWithTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline outdoorGrillIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/OutdoorGrill" (keyValueList CaseRules.LowerFirst b) []
+
+let inline outdoorGrillOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/OutdoorGrillOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline outdoorGrillRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/OutdoorGrillRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline outdoorGrillSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/OutdoorGrillSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline outdoorGrillTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/OutdoorGrillTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline outlinedFlagIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/OutlinedFlag" (keyValueList CaseRules.LowerFirst b) []
 
@@ -9863,6 +10358,21 @@ let inline paymentTwoToneIcon b : ReactElement =
 
 let inline peopleIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/People" (keyValueList CaseRules.LowerFirst b) []
+
+let inline peopleAltIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PeopleAlt" (keyValueList CaseRules.LowerFirst b) []
+
+let inline peopleAltOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PeopleAltOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline peopleAltRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PeopleAltRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline peopleAltSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PeopleAltSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline peopleAltTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PeopleAltTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline peopleOutlineIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/PeopleOutline" (keyValueList CaseRules.LowerFirst b) []
@@ -10178,6 +10688,36 @@ let inline phoneCallbackSharpIcon b : ReactElement =
 
 let inline phoneCallbackTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/PhoneCallbackTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneDisabledIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneDisabled" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneDisabledOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneDisabledOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneDisabledRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneDisabledRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneDisabledSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneDisabledSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneDisabledTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneDisabledTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneEnabledIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneEnabled" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneEnabledOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneEnabledOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneEnabledRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneEnabledRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneEnabledSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneEnabledSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline phoneEnabledTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PhoneEnabledTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline phoneForwardedIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/PhoneForwarded" (keyValueList CaseRules.LowerFirst b) []
@@ -10566,6 +11106,9 @@ let inline pinDropSharpIcon b : ReactElement =
 let inline pinDropTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/PinDropTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline pinterestIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Pinterest" (keyValueList CaseRules.LowerFirst b) []
+
 let inline placeIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Place" (keyValueList CaseRules.LowerFirst b) []
 
@@ -10716,6 +11259,21 @@ let inline plusOneSharpIcon b : ReactElement =
 let inline plusOneTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/PlusOneTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline policyIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Policy" (keyValueList CaseRules.LowerFirst b) []
+
+let inline policyOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PolicyOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline policyRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PolicyRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline policySharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PolicySharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline policyTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PolicyTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline pollIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Poll" (keyValueList CaseRules.LowerFirst b) []
 
@@ -10790,6 +11348,21 @@ let inline portraitSharpIcon b : ReactElement =
 
 let inline portraitTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/PortraitTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline postAddIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PostAdd" (keyValueList CaseRules.LowerFirst b) []
+
+let inline postAddOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PostAddOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline postAddRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PostAddRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline postAddSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PostAddSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline postAddTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/PostAddTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline powerIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Power" (keyValueList CaseRules.LowerFirst b) []
@@ -11135,6 +11708,9 @@ let inline recordVoiceOverSharpIcon b : ReactElement =
 
 let inline recordVoiceOverTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/RecordVoiceOverTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline redditIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Reddit" (keyValueList CaseRules.LowerFirst b) []
 
 let inline redeemIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Redeem" (keyValueList CaseRules.LowerFirst b) []
@@ -12831,6 +13407,21 @@ let inline simCardSharpIcon b : ReactElement =
 let inline simCardTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/SimCardTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline singleBedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SingleBed" (keyValueList CaseRules.LowerFirst b) []
+
+let inline singleBedOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SingleBedOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline singleBedRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SingleBedRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline singleBedSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SingleBedSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline singleBedTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SingleBedTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline skipNextIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/SkipNext" (keyValueList CaseRules.LowerFirst b) []
 
@@ -13116,6 +13707,21 @@ let inline speakerSharpIcon b : ReactElement =
 let inline speakerTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/SpeakerTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline speedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Speed" (keyValueList CaseRules.LowerFirst b) []
+
+let inline speedOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SpeedOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline speedRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SpeedRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline speedSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SpeedSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline speedTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SpeedTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline spellcheckIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Spellcheck" (keyValueList CaseRules.LowerFirst b) []
 
@@ -13130,6 +13736,261 @@ let inline spellcheckSharpIcon b : ReactElement =
 
 let inline spellcheckTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/SpellcheckTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Sports" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBaseballIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBaseball" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBaseballOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBaseballOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBaseballRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBaseballRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBaseballSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBaseballSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBaseballTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBaseballTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBasketballIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBasketball" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBasketballOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBasketballOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBasketballRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBasketballRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBasketballSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBasketballSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsBasketballTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsBasketballTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsCricketIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsCricket" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsCricketOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsCricketOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsCricketRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsCricketRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsCricketSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsCricketSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsCricketTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsCricketTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsEsportsIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsEsports" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsEsportsOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsEsportsOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsEsportsRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsEsportsRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsEsportsSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsEsportsSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsEsportsTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsEsportsTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsFootballIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsFootball" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsFootballOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsFootballOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsFootballRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsFootballRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsFootballSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsFootballSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsFootballTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsFootballTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsGolfIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsGolf" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsGolfOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsGolfOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsGolfRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsGolfRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsGolfSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsGolfSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsGolfTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsGolfTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHandballIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHandball" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHandballOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHandballOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHandballRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHandballRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHandballSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHandballSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHandballTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHandballTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHockeyIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHockey" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHockeyOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHockeyOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHockeyRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHockeyRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHockeySharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHockeySharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsHockeyTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsHockeyTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsKabaddiIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsKabaddi" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsKabaddiOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsKabaddiOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsKabaddiRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsKabaddiRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsKabaddiSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsKabaddiSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsKabaddiTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsKabaddiTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMmaIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMma" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMmaOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMmaOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMmaRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMmaRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMmaSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMmaSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMmaTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMmaTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMotorsportsIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMotorsports" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMotorsportsOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMotorsportsOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMotorsportsRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMotorsportsRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMotorsportsSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMotorsportsSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsMotorsportsTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsMotorsportsTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsRugbyIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsRugby" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsRugbyOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsRugbyOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsRugbyRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsRugbyRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsRugbySharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsRugbySharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsRugbyTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsRugbyTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsSoccerIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsSoccer" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsSoccerOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsSoccerOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsSoccerRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsSoccerRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsSoccerSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsSoccerSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsSoccerTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsSoccerTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsTennisIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsTennis" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsTennisOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsTennisOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsTennisRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsTennisRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsTennisSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsTennisSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsTennisTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsTennisTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsVolleyballIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsVolleyball" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsVolleyballOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsVolleyballOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsVolleyballRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsVolleyballRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsVolleyballSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsVolleyballSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline sportsVolleyballTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SportsVolleyballTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline squareFootIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SquareFoot" (keyValueList CaseRules.LowerFirst b) []
+
+let inline squareFootOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SquareFootOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline squareFootRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SquareFootRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline squareFootSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SquareFootSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline squareFootTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SquareFootTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline starIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Star" (keyValueList CaseRules.LowerFirst b) []
@@ -13313,6 +14174,21 @@ let inline storageTwoToneIcon b : ReactElement =
 
 let inline storeIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Store" (keyValueList CaseRules.LowerFirst b) []
+
+let inline storefrontIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Storefront" (keyValueList CaseRules.LowerFirst b) []
+
+let inline storefrontOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/StorefrontOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline storefrontRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/StorefrontRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline storefrontSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/StorefrontSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline storefrontTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/StorefrontTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline storeMallDirectoryIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/StoreMallDirectory" (keyValueList CaseRules.LowerFirst b) []
@@ -13644,6 +14520,21 @@ let inline switchVideoTwoToneIcon b : ReactElement =
 let inline syncIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Sync" (keyValueList CaseRules.LowerFirst b) []
 
+let inline syncAltIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SyncAlt" (keyValueList CaseRules.LowerFirst b) []
+
+let inline syncAltOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SyncAltOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline syncAltRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SyncAltRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline syncAltSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SyncAltSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline syncAltTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SyncAltTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline syncDisabledIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/SyncDisabled" (keyValueList CaseRules.LowerFirst b) []
 
@@ -13688,6 +14579,21 @@ let inline syncTwoToneIcon b : ReactElement =
 
 let inline systemUpdateIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/SystemUpdate" (keyValueList CaseRules.LowerFirst b) []
+
+let inline systemUpdateAltIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SystemUpdateAlt" (keyValueList CaseRules.LowerFirst b) []
+
+let inline systemUpdateAltOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SystemUpdateAltOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline systemUpdateAltRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SystemUpdateAltRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline systemUpdateAltSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SystemUpdateAltSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline systemUpdateAltTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/SystemUpdateAltTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline systemUpdateOutlinedIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/SystemUpdateOutlined" (keyValueList CaseRules.LowerFirst b) []
@@ -13821,6 +14727,9 @@ let inline tapAndPlaySharpIcon b : ReactElement =
 let inline tapAndPlayTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/TapAndPlayTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline telegramIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Telegram" (keyValueList CaseRules.LowerFirst b) []
+
 let inline terrainIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Terrain" (keyValueList CaseRules.LowerFirst b) []
 
@@ -13895,6 +14804,36 @@ let inline textRotateVerticalSharpIcon b : ReactElement =
 
 let inline textRotateVerticalTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/TextRotateVerticalTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngledownIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngledown" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngledownOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngledownOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngledownRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngledownRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngledownSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngledownSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngledownTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngledownTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngleupIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngleup" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngleupOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngleupOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngleupRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngleupRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngleupSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngleupSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline textRotationAngleupTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/TextRotationAngleupTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline textRotationDownIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/TextRotationDown" (keyValueList CaseRules.LowerFirst b) []
@@ -14570,6 +15509,9 @@ let inline tvSharpIcon b : ReactElement =
 
 let inline tvTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/TvTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline twitterIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/Twitter" (keyValueList CaseRules.LowerFirst b) []
 
 let inline unarchiveIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Unarchive" (keyValueList CaseRules.LowerFirst b) []
@@ -15441,6 +16383,9 @@ let inline weekendSharpIcon b : ReactElement =
 let inline weekendTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/WeekendTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline whatsAppIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/WhatsApp" (keyValueList CaseRules.LowerFirst b) []
+
 let inline whatshotIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/Whatshot" (keyValueList CaseRules.LowerFirst b) []
 
@@ -15605,6 +16550,9 @@ let inline wrapTextSharpIcon b : ReactElement =
 
 let inline wrapTextTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/WrapTextTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
+let inline youTubeIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/YouTube" (keyValueList CaseRules.LowerFirst b) []
 
 let inline youtubeSearchedForIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/YoutubeSearchedFor" (keyValueList CaseRules.LowerFirst b) []
