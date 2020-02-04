@@ -35,7 +35,7 @@ If the bindings are outdated, please file an issue and I'll update them. It's qu
 ## Contributing/updating
 
 1. Check the [Material-UI changelog](https://github.com/mui-org/material-ui/blob/master/CHANGELOG.md) for relevant changes
-2. Run `yarn upgrade --latest`
+2. Run `npm up`
 3. Run `./fake.cmd build -t BuildTest`
 4. Check the HTML file in the `output` folder to verify that all icons render correctly
 5. Update the version number, release notes, and supported npm dependency versions for femto in `src/Fable.MaterialUI.Icons/Fable.MaterialUI.Icons.fsproj`
