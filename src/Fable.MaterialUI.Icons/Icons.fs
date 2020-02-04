@@ -327,6 +327,21 @@ let inline addCommentSharpIcon b : ReactElement =
 let inline addCommentTwoToneIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/AddCommentTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
+let inline addIcCallIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AddIcCall" (keyValueList CaseRules.LowerFirst b) []
+
+let inline addIcCallOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AddIcCallOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline addIcCallRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AddIcCallRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline addIcCallSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AddIcCallSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline addIcCallTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/AddIcCallTwoTone" (keyValueList CaseRules.LowerFirst b) []
+
 let inline addLocationIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/AddLocation" (keyValueList CaseRules.LowerFirst b) []
 
@@ -8015,6 +8030,21 @@ let inline lensTwoToneIcon b : ReactElement =
 
 let inline libraryAddIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/LibraryAdd" (keyValueList CaseRules.LowerFirst b) []
+
+let inline libraryAddCheckIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/LibraryAddCheck" (keyValueList CaseRules.LowerFirst b) []
+
+let inline libraryAddCheckOutlinedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/LibraryAddCheckOutlined" (keyValueList CaseRules.LowerFirst b) []
+
+let inline libraryAddCheckRoundedIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/LibraryAddCheckRounded" (keyValueList CaseRules.LowerFirst b) []
+
+let inline libraryAddCheckSharpIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/LibraryAddCheckSharp" (keyValueList CaseRules.LowerFirst b) []
+
+let inline libraryAddCheckTwoToneIcon b : ReactElement = 
+  ofImport "default" "@material-ui/icons/LibraryAddCheckTwoTone" (keyValueList CaseRules.LowerFirst b) []
 
 let inline libraryAddOutlinedIcon b : ReactElement = 
   ofImport "default" "@material-ui/icons/LibraryAddOutlined" (keyValueList CaseRules.LowerFirst b) []

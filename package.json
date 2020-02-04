@@ -4,8 +4,8 @@
     "start": "webpack-dev-server"
   },
   "dependencies": {
-    "@material-ui/core": "^4.6.0",
-    "@material-ui/icons": "^4.5.1",
+    "@material-ui/core": "4.9.1",
+    "@material-ui/icons": "4.9.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   },
@@ -19,9 +19,9 @@
     "cssnano": "^4.1.7",
     "fable-compiler": "^2.4.9",
     "fable-loader": "^2.1.8",
-    "file-loader": "^4.2.0",
+    "file-loader": "^5.0.2",
     "html-webpack-plugin": "^3.2.0",
-    "mini-css-extract-plugin": "^0.8.0",
+    "mini-css-extract-plugin": "^0.9.0",
     "node-sass": "^4.13.0",
     "postcss-loader": "^3.0.0",
     "sass-loader": "^8.0.0",
