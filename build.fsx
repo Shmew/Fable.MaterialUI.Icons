@@ -28,7 +28,7 @@ Target.create "NpmInstall" (fun _ ->
 )
 
 Target.create "Generate" (fun _ ->
-  let firstLower (str: string) = 
+  let firstLower (str: string) =
     string (Char.ToLower str.[0]) + str.Substring 1
   let names =
     !! "node_modules/@material-ui/icons/*.d.ts"
@@ -58,7 +58,7 @@ open Fable.React
       ]
     )
   File.replaceContent "src/Fable.MaterialUI.Icons/Icons.fs" bindingStart
-  File.write true "src/Fable.MaterialUI.Icons/Icons.fs" bindingLines  
+  File.write true "src/Fable.MaterialUI.Icons/Icons.fs" bindingLines
 
   let testStart = """
 //--------------------------------------------//
@@ -102,11 +102,11 @@ Target.create "Pack" (fun _ ->
 )
 
 Target.create "BuildTest" (fun _ ->
-  Yarn.exec "build" id
+  Npm.run "build" id
 )
 
 Target.create "DevTest" (fun _ ->
-  Yarn.exec "start" id
+  Npm.run "start" id
 )
 
 // Build order
