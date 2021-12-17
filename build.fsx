@@ -53,7 +53,7 @@ open Fable.React
     names |> Seq.collect (fun name ->
       [
         yield sprintf "let inline %sIcon b : ReactElement = " (firstLower name)
-        yield sprintf "  ofImport \"default\" \"@material-ui/icons/%s\" (keyValueList CaseRules.LowerFirst b) []" name
+        yield sprintf "  ofImport \"%s\" \"@material-ui/icons\" (keyValueList CaseRules.LowerFirst b) []" name
         yield ""
       ]
     )
